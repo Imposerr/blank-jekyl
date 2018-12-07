@@ -1,0 +1,76 @@
+body,html{
+    background-color: aqua;
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+image{
+    display: block;
+    margin: 0 auto;
+    border: 10px solid red;
+    border-radius: 300px;
+}
+p{
+    color: black;
+    border: 10px double aquamarine;
+    padding: 15px;
+  
+}
+
+figcaption{
+    width:80px;
+    display: block;
+    margin: 0 auto;
+    padding-top: 5px;
+    
+}
+
+i{
+    font-size: 40px;
+    color: white
+}
+
+h1{
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: center;
+}
+
+.blackcopy{
+    color: black;
+}
+
+.whitecopy{
+    color: white;
+}
+
+/* #myvideo{
+    display: block;
+    max-width: 50%;
+    max-height: 50%;
+    min-width: 50%;
+    min-height: 50%;
+    border: 10px solid aquamarine;
+    border-radius: 900px;
+    margin: 0 auto;
+
+}  */
+
+#content-wrapper{
+    width: 960px;
+    margin: 0 auto;
+    background: rgba(0, 0, 0, 0.5);
+    padding:20px;
+}
+
+ul{
+    width: 300px;
+    margin: 0 auto;
+    padding:0;
+    padding-top: 15px;
+    text-align: center;
+}
+
+ul > li{
+    display: inline;
+    margin: 0 15px 0 15px;
+}
